@@ -1,6 +1,7 @@
 # Designing a FIFO (First-In-First-Out) buffer using the CH32V003F4U6 microcontroller 
 ## OBJECTIVE: 
 Designing a FIFO (First-In-First-Out) buffer using the CH32V003F4U6 microcontroller involves both hardware setup and software implementation.  
+
 Here’s a step-by-step guide on how to achieve this:
 
 ## 1. Components Needed:  
