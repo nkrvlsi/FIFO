@@ -19,8 +19,8 @@ A FIFO buffer is a type of data structure where the first data entered is the fi
 It’s commonly used in data streaming and buffering applications.  
 The basic operations are:  
 
-** 1. Enqueue (or Write):**  Add data to the buffer.  
-** 2. Dequeue (or Read):**   Remove data from the buffer.  
+1. Enqueue (or Write):  Add data to the buffer.  
+2. Dequeue (or Read):   Remove data from the buffer.  
 
 ## 3. Circuit Design
 For this design, the circuit is relatively simple as it primarily involves the microcontroller and possibly external memory if a large buffer is needed.  
