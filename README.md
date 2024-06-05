@@ -7,13 +7,13 @@ Here’s a step-by-step guide on how to achieve this:
 ## 1. Components Needed:  
 
 ### 1.1. Hardware:  
-CH32V003F4U6 Microcontroller:   The core of the system.
-Memory (Optional):              If the FIFO buffer size exceeds the microcontroller’s internal memory, external memory might be needed.
-Power Supply:                   To power the system.  
+  CH32V003F4U6 Microcontroller:   The core of the system.
+  Memory (Optional):              If the FIFO buffer size exceeds the microcontroller’s internal memory, external memory might be needed.
+  Power Supply:                   To power the system.  
 
 ### 1.2. Software:
-Integrated Development Environment (IDE)  : For writing and uploading the code.
-Programming Language                      : C or Assembly.
+  Integrated Development Environment (IDE)  : For writing and uploading the code.
+  Programming Language                      : C or Assembly.
 
 ## 2. FIFO Buffer Design  
 A FIFO buffer is a type of data structure where the first data entered is the first to be removed.  
