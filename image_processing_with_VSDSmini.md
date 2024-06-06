@@ -1,4 +1,4 @@
-# Project: Camera image processing with CH32V003F4U6  
+# Project: Camera image processing with VSD Squadron mini 
 
 # OBJECTIVE:  
 Creating an image processing project with the CH32V003F4U6 microcontroller involves capturing image data, processing it, and possibly transmitting it to a remote server or displaying it.  
