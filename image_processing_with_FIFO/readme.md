@@ -7,11 +7,13 @@ Creating an image processing project with the CH32V003F4U6 microcontroller invol
 
 ## 1. Components Needed:  
 
-CH32V003F4U6 Microcontroller  
-Camera Module (e.g., OV7670)  
-Wi-Fi Module (e.g., ESP8266 or ESP32)  
-Power Supply  
-Miscellaneous (resistors, capacitors, jumper wires, breadboard, etc.)  
+1.1. CH32V003F4U6 Microcontroller  
+1.2. Camera Module (e.g., OV7670)  
+1.3. Wi-Fi Module (e.g., ESP8266 or ESP32)   
+<img width="649" alt="image" src="https://github.com/nkrvlsi/FIFO/assets/170950241/e1fa0a17-1bec-49ad-8138-24a1a9b9757d">  
+
+1.4. Power Supply  
+1.5. Miscellaneous (resistors, capacitors, jumper wires, breadboard, etc.)  
 
 ## 2. Circuit Design:  
 
